@@ -1,6 +1,7 @@
 # HDcube 2
 
 ## Model details
+```
 Name:4xHDCube2
 Model Architecture: ESRGAN
 Scale: 4
@@ -14,6 +15,9 @@ Dataset: artifact free textures and photos (stone, wood, metal, clothes, plants,
 Dataset_size: 3500
 Trainer: traiNNer
 Pretrained_Model_G: 4xHDCube (PSNR)
+```
+[<img src="https://img.shields.io/badge/Download-4x HDCube2 250k-red?style=for-the-badge" alt="Download" height="34"/>](https://github.com/Venomalia/HDcube/raw/main/v2/4x_HDCube2_250k.pth)
+[<img src="https://img.shields.io/badge/Download-4x HDCube2 250k Soft-red?style=for-the-badge" alt="Download" height="34"/>](https://github.com/Venomalia/HDcube/raw/main/v2/4x_HDCube2_250k%20Soft.pth)
 
 ## Image comparison
 
