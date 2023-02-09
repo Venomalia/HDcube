@@ -22,19 +22,11 @@ It is designed as a faster alternative to the full size model, it requires much 
 ## Image comparison
 
 ### comparison
-|Input|2x HDCube Compact|4x HDCube 3|
+|Input|2x HDCube Compact|[4x HDCube 3](https://github.com/Venomalia/HDcube/releases/tag/3.0)|
 |---|---|---|
 |<img src="https://i.imgur.com/476bdeZ.png" width="192"/>|<img src="https://i.imgur.com/LV4UmEv.png" width="192"/>|<img src="https://i.imgur.com/wYESlsV.png" width="192"/>|
-
-### Textures
-|Input|Output|
-|---|---|
-|<img src="https://i.imgur.com/476bdeZ.png" width="336"/>|<img src="https://i.imgur.com/LV4UmEv.png" width="336"/>|
-|<img src="https://i.imgur.com/7GGgStJ.png" width="336"/>|<img src="https://i.imgur.com/6lPu1HK.png" width="336"/>|
-|<img src="https://i.imgur.com/HxYcYN4.png" width="336"/>|<img src="https://i.imgur.com/MHrDCys.png" width="336"/>|
-|<img src="https://i.imgur.com/Bz39avz.png" width="336"/>|<img src="https://i.imgur.com/pMCqCP4.png" width="336"/>|
-|<img src="https://i.imgur.com/R34f0Jv.png" width="336"/>|<img src="https://i.imgur.com/IbvAnDq.png" width="336"/>|
-|<img src="https://i.imgur.com/U2DXTH5.png" width="336"/>|<img src="https://i.imgur.com/cTZ6xVc.png" width="336"/>|
+|<img src="https://i.imgur.com/7GGgStJ.png" width="192"/>|<img src="https://i.imgur.com/6lPu1HK.png" width="192"/>|<img src="https://i.imgur.com/euMrBE5.png" width="192"/>|
+|<img src="https://i.imgur.com/Bz39avz.png" width="192"/>|<img src="https://i.imgur.com/pMCqCP4.png" width="192"/>|<img src="https://i.imgur.com/jXX6lhG.png" width="192"/>| 
 
 |Input|Output|
 |---|---|
