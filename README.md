@@ -30,6 +30,7 @@ You get the best quality if you upscale the alpha channel [separately](https://i
 ## Versions
 |Scale|Name|Iterations|Architecture|Date|
 |---|---|---|---|---|
+|2|[HDcubeCompact](https://github.com/Venomalia/HDcube/tree/main/Compact)|500k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-02-09|
 |4|[HDcube3](https://github.com/Venomalia/HDcube/tree/main/v3)|500k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-12-13|
 |4|[HDcube2](https://github.com/Venomalia/HDcube/tree/main/v2)|250k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-05-31|
 |4|[HDcube](https://github.com/Venomalia/HDcube/tree/main/v1)|200k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-05-10|
