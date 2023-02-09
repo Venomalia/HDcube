@@ -22,7 +22,7 @@ It is designed as a faster alternative to the full size model, it requires much 
 ## Image comparison
 
 ### comparison
-|Input|Compact|V3|
+|Input|2x HDCube Compact|4x HDCube 3|
 |---|---|---|
 |<img src="https://i.imgur.com/476bdeZ.png" width="336"/>|<img src="https://i.imgur.com/LV4UmEv.png" width="336"/>|<img src="https://i.imgur.com/wYESlsV.png" width="336"/>|
 
