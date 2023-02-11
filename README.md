@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/qpUjENn.png" width="400"/>
 
 # HDcube
-This is an [ESRGAN](https://github.com/xinntao/ESRGAN) model trained specifically for upscaling GameCube and Wii textures, but it can of course be used for other textures from that period.
+This is an [ESRGAN](https://github.com/xinntao/ESRGAN) model trained specifically for upscaling GameCube and Wii textures, but it can of course be used for other textures from that period, like playstation 2, Xbox or PC games from that time.
 
 It can be used for all image formats supported by Gamecube and Wii hardware and can remove its typical artifacts like
 CMPR Block Compression (DXT1 algorithm, also known as BC1), color palette errors, color reduction up to 8bit color depth and 1bit alpha depth.
