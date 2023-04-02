@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/qpUjENn.png" width="400"/>
 
 # HDcube
-This is an [ESRGAN](https://github.com/xinntao/ESRGAN) model trained specifically for upscaling GameCube and Wii textures, but it can of course be used for other textures from that period, like playstation 2, Xbox or PC games from that time.
+This is an [ESRGAN](https://github.com/xinntao/ESRGAN) model trained specifically for upscaling and restoration of GameCube and Wii textures, but it can of course be used for other textures from that period, like playstation 2, Xbox or PC games from that time.
 
 It can be used for all image formats supported by Gamecube and Wii hardware and can remove its typical artifacts like
 CMPR Block Compression (DXT1 algorithm, also known as BC1), color palette errors, color reduction up to 8bit color depth and 1bit alpha depth.
@@ -19,17 +19,19 @@ You get the best quality if you upscale the alpha channel [separately](https://i
 |---|---|
 |<img src="https://i.imgur.com/LF0HGBg.png" width="512"/>|<img src="https://i.imgur.com/vDWRaLs.png" width="512"/>|
 
-|GameCube|HDCube 3|GameCube|HDCube 3|
+|GameCube|HDCube 4|GameCube|HDCube 4|
 |---|---|---|---|
-|<img src="https://i.imgur.com/476bdeZ.png" width="256"/>|<img src="https://i.imgur.com/wYESlsV.png" width="256"/>|<img src="https://i.imgur.com/7GGgStJ.png" width="256"/>|<img src="https://i.imgur.com/euMrBE5.png" width="256"/>|
-|<img src="https://i.imgur.com/HxYcYN4.png" width="256"/>|<img src="https://i.imgur.com/GT9RjVc.png" width="256"/>|<img src="https://i.imgur.com/Bz39avz.png" width="256"/>|<img src="https://i.imgur.com/jXX6lhG.png" width="256"/>|
-|<img src="https://i.imgur.com/R34f0Jv.png" width="256"/>|<img src="https://i.imgur.com/heetXP2.png" width="256"/>|<img src="https://i.imgur.com/U2DXTH5.png" width="256"/>|<img src="https://i.imgur.com/XZ8x19N.png" width="256"/>|
+|<img src="https://i.imgur.com/476bdeZ.png" width="256"/>|<img src="https://i.imgur.com/nIv5qBs.png" width="256"/>|<img src="https://i.imgur.com/7GGgStJ.png" width="256"/>|<img src="https://i.imgur.com/HRBTAYV.png" width="256"/>|
+|<img src="https://i.imgur.com/U2DXTH5.png" width="256"/>|<img src="https://i.imgur.com/u8PWMpD.png" width="256"/>|<img src="https://i.imgur.com/R34f0Jv.png" width="256"/>|<img src="https://i.imgur.com/BFMiypi.png" width="256"/>|
 
-[more...](https://github.com/Venomalia/HDcube/tree/main/v3#image-comparison)
+[more...](https://github.com/Venomalia/HDcube/tree/main/v4#image-comparison)
 
 ## Versions
 |Scale|Name|Iterations|Architecture|Date|
 |---|---|---|---|---|
+|4|[HDcube4-A](https://github.com/Venomalia/HDcube/tree/main/v4)|250k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
+|4|[HDcube4-B](https://github.com/Venomalia/HDcube/tree/main/v4)|250k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
+|4|[HDcube-Alpha](https://github.com/Venomalia/HDcube/tree/main/Alpha)|250k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
 |2|[HDcubeCompact](https://github.com/Venomalia/HDcube/tree/main/Compact)|500k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-02-09|
 |4|[HDcube3](https://github.com/Venomalia/HDcube/tree/main/v3)|500k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-12-13|
 |4|[HDcube2](https://github.com/Venomalia/HDcube/tree/main/v2)|250k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-05-31|
