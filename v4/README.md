@@ -38,12 +38,11 @@ Model A and B have different error corrections and fokus.
 ![grafik](https://i.imgur.com/fVHpN5h.png)
 
 ## Old Models
-<img src="https://i.imgur.com/MKiZ3au.png" width="700"/>
-<img src="https://i.imgur.com/tKJQQ3J.png" width="700"/>
-<img src="https://i.imgur.com/MQGWy2y.png" width="700"/>
-<img src="https://i.imgur.com/GnRz6XF.png" width="700"/>
-<img src="https://i.imgur.com/lPpA1jD.png" width="700"/>
-<img src="https://i.imgur.com/zFEPqvB.png" width="700"/>
+<img src="https://i.imgur.com/MKiZ3au.png" width="400"/><img src="https://i.imgur.com/tKJQQ3J.png" width="400"/>
+<img src="https://i.imgur.com/MQGWy2y.png" width="400"/><img src="https://i.imgur.com/GnRz6XF.png" width="400"/>
+<img src="https://i.imgur.com/EfQfhpp.png" width="400"/><img src="https://i.imgur.com/auGu9M6.png" width="400"/>
+<img src="https://i.imgur.com/lPpA1jD.png" width="800"/>
+<img src="https://i.imgur.com/zFEPqvB.png" width="800"/>
 
 ### Textures
 Output use `4xHDCube4(A50,B50)`
