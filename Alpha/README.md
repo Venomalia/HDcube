@@ -7,7 +7,7 @@ Model Architecture: Real-ESRGAN
 Scale: 4
 Purpose: Gamecube and Wii textures Dumps
 
-Iterations: 250k
+Iterations: 350k
 batch_size: 6
 HR_size: 128
 Epoch: 547

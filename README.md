@@ -26,12 +26,14 @@ You get the best quality if you upscale the alpha channel [separately](https://i
 
 [more...](https://github.com/Venomalia/HDcube/tree/main/v4#image-comparison)
 
-## Versions
+## Model
 |Scale|Name|Iterations|Architecture|Date|
 |---|---|---|---|---|
-|4|[HDcube4-A](https://github.com/Venomalia/HDcube/tree/main/v4)|250k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
-|4|[HDcube4-B](https://github.com/Venomalia/HDcube/tree/main/v4)|250k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
-|4|[HDcube-Alpha](https://github.com/Venomalia/HDcube/tree/main/Alpha)|250k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
+|4|[HDcube4Compact](https://github.com/Venomalia/HDcube/tree/main/v4Compact)|400k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-06-26|
+|4|[HDcube4Plus-B](https://github.com/Venomalia/HDcube/tree/main/v4)|600k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-06-19|
+|4|[HDcube4-A](https://github.com/Venomalia/HDcube/tree/main/v4)|400k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
+|4|[HDcube4-B](https://github.com/Venomalia/HDcube/tree/main/v4)|500k|[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
+|4|[HDcube-Alpha](https://github.com/Venomalia/HDcube/tree/main/Alpha)|350k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-03-20|
 |2|[HDcubeCompact](https://github.com/Venomalia/HDcube/tree/main/Compact)|500k|[Real-ESRGAN Compact](https://github.com/xinntao/Real-ESRGAN)|2023-02-09|
 |4|[HDcube3](https://github.com/Venomalia/HDcube/tree/main/v3)|500k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-12-13|
 |4|[HDcube2](https://github.com/Venomalia/HDcube/tree/main/v2)|250k|[ESRGAN](https://github.com/xinntao/ESRGAN)|2022-05-31|
